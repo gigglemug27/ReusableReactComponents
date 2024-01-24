@@ -1,5 +1,3 @@
-# ReusableReactComponents
-
 🚀 React ReusableComponents Repository 🚀
 
 Welcome to the React ReusableComponents repository, your go-to solution for seamless registration and login processes with all the necessary validations! 🛡️ This powerful repository not only handles user authentication but also effortlessly connects to a backend API to fetch and manage data.
