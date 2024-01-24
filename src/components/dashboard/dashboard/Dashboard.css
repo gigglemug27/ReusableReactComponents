@@ -1,0 +1,14 @@
+/* Dashboard.css */
+.dashboard {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px;
+  }
+  /* Add more styling as needed */
+  
